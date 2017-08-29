@@ -1,7 +1,4 @@
-## Create a PostgreSQL database called todolist with a table called todos to be used for storing todo items.
-
-Used :
------
+Create a PostgreSQL database called todolist with a table called todos to be used for storing todo items.
 
 Each item should have the following fields:
 
